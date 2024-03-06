@@ -4,19 +4,24 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bouncing Ball
-  - Obstacle
-  - Falling Ball
+  - Entity
+  - View Field
+  - Private Field
+  - Fish Privacy
+  - Seaweed
+  - Trifish
+  - Shark
+  - Landmine
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Entities
   - Water
   - UI
-  - 
-  - 
-  - 
+  - View Field
+  - Mouth
+  - Tail
   - 
   - 
   - 

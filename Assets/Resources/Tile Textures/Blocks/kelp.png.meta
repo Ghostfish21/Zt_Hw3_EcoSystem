@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 48b5454b98ed07b4897215ea7a3e9280
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kelp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf81fe11c1d3f1429766b8642efbb24
+      internalID: -1734357579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5da3f68f863ca4ab5ad400822da3a1
+      internalID: -1826394034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae877c3e9fb7b5438a836e0abf947ec
+      internalID: 2089565298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfc9a94edce5745a6f53fa484c9de5
+      internalID: -389366775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d4ae3448c37246aaf397a4bd6f8c8
+      internalID: -656949210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b3912ef2de8649bcf3dab682f80cc
+      internalID: 866321637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bed33a279a04d47bfe08159912a894
+      internalID: 1877450331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d4e2f2b5d3cd4989b61012cd47c71
+      internalID: 926534037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb06187db78dbb4a8aa4c5a3a550504
+      internalID: -1458760819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91793770db2bf5940846ec3f0977ac5f
+      internalID: 1371716392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347892b390837441ac8dc6bd3bc21ee
+      internalID: -250411260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c60b7ea9c841848959680b244b515c
+      internalID: -695245284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5dbf5b9f0bb148a3b8d65573b837a
+      internalID: 296517553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb106dbf48ed1d4eb7ad5d4b98ba040
+      internalID: -2023505949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bbd02723752d140bc5e999090f8288
+      internalID: 1796914871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b06b1424f23b440a3ec5d9abb1a0f2
+      internalID: 1248040237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d3cf52ba2d564ebe2fc5ac23976dc
+      internalID: -1651595104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888f2f7674399c44821a0973fc252ef
+      internalID: 1469591732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5dc9f9dc3ed3e4dba65d23fbc7ede0
+      internalID: -968642995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelp_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2668f9aa95c9254b93462e294e98cab
+      internalID: 1424516142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -3, y: -299}
+      - {x: -16, y: -314}
+      - {x: -16, y: -320}
+      - {x: 16, y: -320}
+      - {x: 16, y: -306}
+      - {x: 11, y: -299}
+    - - {x: -1, y: -268}
+      - {x: -3, y: -270}
+      - {x: -16, y: -285}
+      - {x: -16, y: -289}
+      - {x: -15, y: -290}
+      - {x: 11, y: -290}
+      - {x: 16, y: -288}
+      - {x: 16, y: -282}
+      - {x: 7, y: -268}
+    - - {x: -14, y: -254}
+      - {x: -11, y: -258}
+      - {x: 16, y: -258}
+      - {x: 16, y: -249}
+      - {x: 11, y: -236}
+      - {x: -9, y: -236}
+      - {x: -14, y: -248}
+    - - {x: 3, y: -205}
+      - {x: 0, y: -204}
+      - {x: -4, y: -204}
+      - {x: -6, y: -206}
+      - {x: -5, y: -209}
+      - {x: -14, y: -219}
+      - {x: -14, y: -221}
+      - {x: -10, y: -226}
+      - {x: 13, y: -226}
+      - {x: 16, y: -225}
+      - {x: 16, y: -218}
+      - {x: 15, y: -216}
+    - - {x: -7, y: -172}
+      - {x: -14, y: -180}
+      - {x: -14, y: -192}
+      - {x: -9, y: -194}
+      - {x: 16, y: -194}
+      - {x: 16, y: -182}
+      - {x: 7, y: -172}
+    - - {x: 6, y: -140}
+      - {x: -6, y: -140}
+      - {x: -12, y: -151}
+      - {x: -12, y: -155}
+      - {x: -11, y: -162}
+      - {x: 16, y: -162}
+      - {x: 16, y: -156}
+      - {x: 15, y: -154}
+    - - {x: -7, y: -108}
+      - {x: -12, y: -118}
+      - {x: -12, y: -125}
+      - {x: -4, y: -130}
+      - {x: 16, y: -130}
+      - {x: 16, y: -120}
+      - {x: 6, y: -108}
+    - - {x: -8, y: -79}
+      - {x: -15, y: -87}
+      - {x: -15, y: -91}
+      - {x: -6, y: -98}
+      - {x: 16, y: -98}
+      - {x: 16, y: -90}
+      - {x: 1, y: -76}
+      - {x: -7, y: -76}
+    - - {x: -16, y: -60}
+      - {x: -6, y: -66}
+      - {x: 16, y: -66}
+      - {x: 16, y: -57}
+      - {x: 6, y: -44}
+      - {x: -14, y: -44}
+      - {x: -16, y: -46}
+    - - {x: -5, y: -10}
+      - {x: -8, y: -10}
+      - {x: -9, y: -11}
+      - {x: -16, y: -19}
+      - {x: -16, y: -27}
+      - {x: -5, y: -34}
+      - {x: 12, y: -34}
+      - {x: 14, y: -32}
+      - {x: 13, y: -29}
+      - {x: 3, y: -14}
+    - - {x: -3, y: 22}
+      - {x: -6, y: 21}
+      - {x: -16, y: 13}
+      - {x: -16, y: 6}
+      - {x: -5, y: -2}
+      - {x: 10, y: -2}
+      - {x: 12, y: -1}
+      - {x: 12, y: 2}
+      - {x: 4, y: 17}
+    - - {x: -9, y: 54}
+      - {x: -16, y: 45}
+      - {x: -16, y: 35}
+      - {x: -12, y: 32}
+      - {x: -2, y: 30}
+      - {x: 12, y: 30}
+      - {x: 12, y: 32}
+      - {x: 11, y: 35}
+      - {x: -2, y: 54}
+    - - {x: -5, y: 86}
+      - {x: -16, y: 76}
+      - {x: -16, y: 65}
+      - {x: -6, y: 62}
+      - {x: 16, y: 62}
+      - {x: 16, y: 70}
+      - {x: 10, y: 77}
+      - {x: 2, y: 86}
+    - - {x: -4, y: 118}
+      - {x: -16, y: 107}
+      - {x: -16, y: 102}
+      - {x: -8, y: 94}
+      - {x: 14, y: 94}
+      - {x: 16, y: 96}
+      - {x: 15, y: 99}
+      - {x: 2, y: 118}
+    - - {x: 3, y: 150}
+      - {x: -3, y: 150}
+      - {x: -12, y: 143}
+      - {x: -16, y: 140}
+      - {x: -16, y: 133}
+      - {x: -7, y: 126}
+      - {x: 13, y: 126}
+      - {x: 15, y: 128}
+      - {x: 15, y: 135}
+    - - {x: -7, y: 180}
+      - {x: -15, y: 173}
+      - {x: -16, y: 171}
+      - {x: -16, y: 163}
+      - {x: -10, y: 158}
+      - {x: 11, y: 158}
+      - {x: 14, y: 159}
+      - {x: 14, y: 174}
+      - {x: 5, y: 180}
+    - - {x: 12, y: 200}
+      - {x: 9, y: 211}
+      - {x: 6, y: 213}
+      - {x: 3, y: 213}
+      - {x: -2, y: 212}
+      - {x: -16, y: 201}
+      - {x: -16, y: 193}
+      - {x: -5, y: 190}
+      - {x: 12, y: 190}
+      - {x: 14, y: 193}
+      - {x: 14, y: 198}
+    - - {x: 7, y: 244}
+      - {x: -4, y: 244}
+      - {x: -16, y: 232}
+      - {x: -16, y: 223}
+      - {x: -15, y: 222}
+      - {x: 8, y: 222}
+      - {x: 14, y: 224}
+      - {x: 14, y: 230}
+      - {x: 11, y: 232}
+      - {x: 9, y: 240}
+    - - {x: 1, y: 276}
+      - {x: -6, y: 273}
+      - {x: -15, y: 265}
+      - {x: -15, y: 258}
+      - {x: -7, y: 254}
+      - {x: 7, y: 254}
+      - {x: 14, y: 259}
+      - {x: 14, y: 266}
+      - {x: 11, y: 276}
+    - - {x: 5, y: 308}
+      - {x: -2, y: 307}
+      - {x: -16, y: 293}
+      - {x: -16, y: 286}
+      - {x: 12, y: 286}
+      - {x: 16, y: 289}
+      - {x: 16, y: 303}
+      - {x: 14, y: 308}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kelp_0: -1734357579
+      kelp_1: -1826394034
+      kelp_10: -250411260
+      kelp_11: -695245284
+      kelp_12: 296517553
+      kelp_13: -2023505949
+      kelp_14: 1796914871
+      kelp_15: 1248040237
+      kelp_16: -1651595104
+      kelp_17: 1469591732
+      kelp_18: -968642995
+      kelp_19: 1424516142
+      kelp_2: 2089565298
+      kelp_3: -389366775
+      kelp_4: -656949210
+      kelp_5: 866321637
+      kelp_6: 1877450331
+      kelp_7: 926534037
+      kelp_8: -1458760819
+      kelp_9: 1371716392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
